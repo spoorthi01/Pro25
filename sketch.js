@@ -26,7 +26,7 @@ function setup() {
 
 
 function draw() {
-  background(0);
+  background(250);
 
   paper.display();
   bin.display();
